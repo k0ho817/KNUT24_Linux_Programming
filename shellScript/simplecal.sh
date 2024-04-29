@@ -1,7 +1,7 @@
 #!/bin/sh
 
 calculate() {
-    read op val1 val2
+    read op val1 val2 
     case "$op" in
         +) result=$(($val1 + $val2));;
         -) result=$(($val1 - $val2));;
