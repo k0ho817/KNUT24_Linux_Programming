@@ -1,4 +1,0 @@
-2024년 4월 29일 월요일 11시 35분 58초 KST
-mungyeongho      console       4 12 19:23  
-mungyeongho      ttys002       4 25 19:02  
-/Users/mungyeongho/Documents/study/KNUT24/1학기/리눅스프로그래밍/week9/codes
